@@ -9,7 +9,7 @@ import { PricingFaqGrid } from "@/components/pricing/pricing-faq-grid";
 import { JsonLd } from "@/components/json-ld";
 import { FALLBACK_CREDIT_TIERS, FALLBACK_FAQ, FALLBACK_BOOKS } from "@/data/fallback";
 
-export const revalidate = 3600;
+export const dynamic = "force-static";
 
 export async function generateMetadata({
   params,

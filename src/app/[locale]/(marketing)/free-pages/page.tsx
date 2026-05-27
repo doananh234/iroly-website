@@ -8,7 +8,7 @@ import { FreeArchiveGrid } from "@/components/free-pages/free-pages-archive-grid
 import { FALLBACK_FREE_PAGES } from "@/data/fallback";
 import type { FreeColoringPage } from "@/data/fallback";
 
-export const revalidate = 60;
+export const dynamic = "force-static";
 
 export async function generateMetadata({
   params,

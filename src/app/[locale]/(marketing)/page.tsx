@@ -20,7 +20,7 @@ import type { FallbackCategory } from "@/data/fallback";
 import type { Metadata } from "next";
 import type { AppHomeTrendingBook } from "@/types";
 
-export const revalidate = 60;
+export const dynamic = "force-static";
 
 export async function generateMetadata({
   params,

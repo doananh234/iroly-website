@@ -8,11 +8,16 @@ import { BookInfoPanel } from "@/components/shop/book-info-panel";
 import { BookCard } from "@/components/book-card";
 import { JsonLd } from "@/components/json-ld";
 
-export const revalidate = 300;
+export const dynamic = "force-static";
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
-  const books = await getPublicBooksForShop();
-  return books.map((b) => ({ bookId: b.id }));
+  try {
+    const books = await getPublicBooksForShop();
+    return books.map((b) => ({ bookId: b.id }));
+  } catch {
+    return [];
+  }
 }
 
 export async function generateMetadata({

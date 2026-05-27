@@ -4,7 +4,7 @@ import { Check } from "lucide-react";
 import { SkewUnderline } from "@/components/skew-underline";
 import { SectionHead } from "@/components/section-head";
 
-export const revalidate = 3600;
+export const dynamic = "force-static";
 
 const STATS = [
   { color: "#FFE8C2", number: "12,400", key: "booksSold" },

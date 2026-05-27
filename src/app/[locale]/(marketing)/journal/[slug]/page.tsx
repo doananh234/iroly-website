@@ -14,7 +14,7 @@ import { BlogArticleActions } from "@/components/blog-detail/blog-article-action
 import { BlogComments } from "@/components/blog-detail/blog-comments";
 import { BlogRelatedPosts } from "@/components/blog-detail/blog-related-posts";
 
-export const revalidate = 3600;
+export const dynamic = "force-static";
 
 export async function generateMetadata({
   params,

@@ -7,7 +7,7 @@ import { NewsletterSection } from "@/components/newsletter-section";
 import { JournalCategoryFilter } from "@/components/journal/journal-category-filter";
 import { Link } from "@/i18n/navigation";
 
-export const revalidate = 3600;
+export const dynamic = "force-static";
 
 const FEATURED_POST = {
   category: "Process",

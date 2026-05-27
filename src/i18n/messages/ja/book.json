@@ -1,0 +1,42 @@
+{
+  "fields": {
+    "pages": "ページ数",
+    "difficulty": "難易度",
+    "series": "シリーズ",
+    "format": "フォーマット"
+  },
+  "options": {
+    "difficulty": {
+      "beginner": "初心者",
+      "easy": "かんたん",
+      "medium": "ふつう",
+      "hard": "むずかしい"
+    }
+  },
+  "specs": {
+    "format": "iPad · iPhone · 印刷"
+  },
+  "coloristsCount": "{count} 人のカラリストがこの本を愛用しています",
+  "addToBagWithPrice": "カートに追加 · {price}",
+  "tryFree": "最初のページを無料で試す",
+  "relatedBooks": "こちらもきっと好き…",
+  "backToShop": "ショップに戻る",
+  "description": "この本について",
+  "preview": "ページをプレビュー",
+  "tabs": {
+    "about": "この本について",
+    "preview": "サンプルページ (4)",
+    "reviews": "レビュー · 312",
+    "shipping": "印刷・配送"
+  },
+  "credits": {
+    "orUnlock": "または",
+    "credits": "クレジット",
+    "fromWallet": "でウォレットからアンロック。60クレジットパックで25%お得。"
+  },
+  "rating": {
+    "reviews": "レビュー",
+    "coloringThis": "人が塗っています"
+  },
+  "discount": "33%オフ · 日曜まで"
+}

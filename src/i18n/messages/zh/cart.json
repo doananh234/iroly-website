@@ -1,0 +1,32 @@
+{
+  "title": "您的购物车。",
+  "booksReady": "{count}本书 · 准备涂色",
+  "steps": {
+    "cart": "购物车",
+    "payment": "付款",
+    "library": "书库"
+  },
+  "orderSummary": "订单摘要",
+  "bundleDiscount": "套餐折扣",
+  "tax": "税",
+  "taxIncluded": "已含税",
+  "total": "总计",
+  "creditsEquivalent": "= 应用内{credits}积分",
+  "promoPlaceholder": "促销码",
+  "checkoutCta": "结账 · ¥{total}",
+  "securityText": "安全结账 · 7天退款 · 无订阅",
+  "upsellTitle": "再加一本 → 省¥4",
+  "upsellSubtitle": "满3本享套餐折扣。",
+  "browseCta": "浏览",
+  "remove": "删除",
+  "empty": "您的购物车是空的。添加一本书开始吧。",
+  "continueShopping": "继续购物",
+  "items": "{count}件商品",
+  "subtotal": "小计",
+  "checkout": "去结账",
+  "addedToBag": "已加入购物袋！",
+  "apply": "应用",
+  "promoApplied": "已享受9折优惠！",
+  "promoAppliedLabel": "已应用9折优惠",
+  "invalidPromo": "无效的促销码"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "My Account",
+  "editProfile": "Edit Profile",
+  "settings": "Settings",
+  "stats": {
+    "booksOwned": "Books Owned",
+    "pagesColored": "Pages Colored",
+    "credits": "Credits",
+    "memberSince": "Member Since"
+  },
+  "myBooks": "My Books",
+  "openInApp": "Open in App",
+  "recentActivity": "Recent Activity",
+  "edit": {
+    "title": "Edit Profile",
+    "avatar": "Avatar",
+    "changeAvatar": "Change Avatar",
+    "displayName": "Display Name",
+    "displayNameHint": "Max 15 characters",
+    "bio": "Bio",
+    "bioHint": "{count}/200 characters",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "saved": "Profile updated!"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "language": "Language",
+    "notifications": "Notifications",
+    "weeklyEmail": "Weekly free page email",
+    "newReleases": "New book releases",
+    "communityMentions": "Community mentions",
+    "account": "Account",
+    "changePassword": "Change Password",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm password",
+    "updatePassword": "Update Password",
+    "email": "Email",
+    "dangerZone": "Danger Zone",
+    "deleteAccount": "Delete Account",
+    "deleteConfirm": "Are you sure? This action cannot be undone. All your data will be permanently deleted.",
+    "deleteButton": "Yes, Delete My Account"
+  }
+}

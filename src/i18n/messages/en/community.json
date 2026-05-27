@@ -1,0 +1,41 @@
+{
+  "badge": "14,802 colorists this month",
+  "title": "The iRoly Community.",
+  "subtitle": "Pages, palettes, and quiet wins from colorists around the world. Share yours, double-tap theirs, swipe a palette you love.",
+  "shareArtwork": "Share your artwork",
+  "challenge": "This week's challenge",
+  "stats": {
+    "colorists": "colorists",
+    "artworks": "artworks",
+    "countries": "countries"
+  },
+  "tabs": {
+    "trending": "Trending",
+    "week": "This week",
+    "new": "New",
+    "following": "Following",
+    "challenges": "Challenges"
+  },
+  "filter": {
+    "label": "Page:",
+    "all": "All",
+    "fox": "Tiny Friends",
+    "garden": "Bold Garden",
+    "mug": "Cozy Sundays"
+  },
+  "loadMore": "Load more",
+  "swipePalette": "swipe palette",
+  "sidebar": {
+    "challengeBadge": "May challenge",
+    "challengeTitle": "Tokyo Rooftop palette.",
+    "challengeDesc": "Color any page with only these five colors. Top 10 entries win a free book.",
+    "challengeEnds": "Ends in 9 days · 248 entries",
+    "joinChallenge": "Join the challenge",
+    "topColorists": "Top colorists this week",
+    "follow": "Follow",
+    "guidelinesLabel": "Community vibes",
+    "guidelinesTitle": "Be kind. Color often.",
+    "guidelinesDesc": "A short list of what makes iRoly feel like a good corner of the internet. Read in 90 seconds.",
+    "guidelinesLink": "Read guidelines"
+  }
+}

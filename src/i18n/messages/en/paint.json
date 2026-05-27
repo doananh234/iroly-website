@@ -1,0 +1,49 @@
+{
+  "badge": "Free · No account needed",
+  "title": "The Paint Studio.",
+  "subtitle": "Pick a page, pick a palette, breathe. Save your finished art to your gallery or share it with the iRoly community.",
+  "painting": "347 painting now",
+  "tools": {
+    "label": "Tools",
+    "brush": "Brush",
+    "fill": "Fill",
+    "eraser": "Eraser",
+    "eyedropper": "Eyedropper"
+  },
+  "brushSize": "Brush size",
+  "history": {
+    "label": "History",
+    "undo": "Undo",
+    "redo": "Redo",
+    "clear": "Clear canvas"
+  },
+  "coloringPage": "Coloring page",
+  "active": "Active",
+  "pickCustom": "Pick custom",
+  "cozyPalette": "Cozy palette",
+  "recent": "Recent",
+  "paletteOfWeek": "Palette of the week",
+  "paletteTitle": "Tokyo Rooftop, May",
+  "paletteCurated": "Curated by Mei · tap a swatch",
+  "download": "Download PNG",
+  "share": "Share artwork",
+  "save": "Save to gallery",
+  "tip": "Tip: hold Shift while painting to lock to a straight line · press ⌘Z to undo.",
+  "communityTitle": "Other colorists' takes",
+  "communityLink": "See community gallery →",
+  "tipsTitle": "Three small rules for cozier color.",
+  "tipsLabel": "Mei's coloring tips",
+  "shortcutsTitle": "Faster with your hands.",
+  "shortcutsLabel": "Keyboard shortcuts",
+  "shareModal": {
+    "label": "Share your artwork",
+    "title": "Send it into the world.",
+    "subtitle": "Choose where to share. We'll include a watermark linking back to iRoly.",
+    "community": "Post to the iRoly community gallery",
+    "copyLink": "Copy link",
+    "copied": "Link copied.",
+    "saved": "Saved to your device.",
+    "gallery": "Saved to your iRoly gallery.",
+    "cleared": "Canvas cleared."
+  }
+}

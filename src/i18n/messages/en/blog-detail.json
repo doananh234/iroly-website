@@ -1,0 +1,29 @@
+{
+  "breadcrumb": {
+    "journal": "Journal",
+    "category": "Process"
+  },
+  "meta": {
+    "category": "Process",
+    "date": "May 09, 2026",
+    "readTime": "6 min read"
+  },
+  "title": "How we draw a Tiny Friend from sketch to finished page.",
+  "lead": "Every book in the Animal Series starts with the same question: would I want this on my fridge? Here's the eight-step path from a pencil scribble to the dashed-bordered cover.",
+  "author": {
+    "name": "Mei Yoshida",
+    "role": "Founder & Illustrator · @meiyoshida"
+  },
+  "heroCaption": "Tiny Friends · finished cover. Photo by Aiko Tanaka.",
+  "tags": ["process", "animal series", "illustration", "behind the scenes"],
+  "share": "Share:",
+  "authorCard": {
+    "label": "About the author",
+    "bio": "Founder of iRoly. Illustrator. Spends an unreasonable amount of time drawing sleepy foxes. Based in Tokyo.",
+    "cta": "All posts by Mei"
+  },
+  "comments": {
+    "title": "3 responses"
+  },
+  "relatedTitle": "Keep reading."
+}

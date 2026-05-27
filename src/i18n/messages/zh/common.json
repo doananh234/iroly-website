@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "首页",
+    "shop": "商店",
+    "freePages": "免费页面",
+    "credits": "积分",
+    "about": "关于",
+    "journal": "日记",
+    "community": "社区",
+    "paint": "绘画",
+    "feed": "动态",
+    "more": "更多"
+  },
+  "footer": {
+    "shopSection": "商店",
+    "learnSection": "学习",
+    "helpSection": "帮助",
+    "legalSection": "法律",
+    "subscribe": "订阅",
+    "copyright": "© 2026 iRoly Studio · 用安静时光和青柠绿制作。",
+    "tagline": "口袋大小的涂色工作室。精选图书，每周免费页面，随时享受安静时光。",
+    "emailPlaceholder": "your.email@inbox.com",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "newsletterTitle": "与我们一起涂色",
+    "newsletterSubtitle": "每周五免费页面。无垃圾邮件。",
+    "seeYouFriday": "周五见！",
+    "invalidEmail": "请输入有效的电子邮件地址。"
+  },
+  "actions": {
+    "addToBag": "加入购物袋",
+    "checkout": "结账",
+    "subscribe": "订阅",
+    "search": "搜索",
+    "close": "关闭",
+    "viewAll": "查看全部",
+    "tryFree": "免费试用",
+    "download": "下载",
+    "quickLook": "快速查看",
+    "readMore": "阅读更多",
+    "backToShop": "返回商店",
+    "inBag": "已在购物袋",
+    "added": "已添加！"
+  },
+  "search": {
+    "placeholder": "查找图书或页面",
+    "shortcut": "⌘ K"
+  },
+  "loading": "加载中...",
+  "noResults": "未找到结果",
+  "getTheApp": "获取应用",
+  "cart": "购物车",
+  "yourBag": "您的购物袋",
+  "emptyBag": "您的购物袋是空的。添加一本书开始吧。",
+  "checkoutCount": "结账 · {count}本书"
+}

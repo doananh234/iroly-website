@@ -1,0 +1,41 @@
+{
+  "badge": "今月14,802人のカラリスト",
+  "title": "iRolyコミュニティ。",
+  "subtitle": "世界中のカラリストからのページ、パレット、そして静かな勝利。自分のを共有し、みんなのをダブルタップし、好きなパレットをスワイプ。",
+  "shareArtwork": "作品をシェア",
+  "challenge": "今週のチャレンジ",
+  "stats": {
+    "colorists": "カラリスト",
+    "artworks": "作品",
+    "countries": "カ国"
+  },
+  "tabs": {
+    "trending": "トレンド",
+    "week": "今週",
+    "new": "新着",
+    "following": "フォロー中",
+    "challenges": "チャレンジ"
+  },
+  "filter": {
+    "label": "ページ：",
+    "all": "すべて",
+    "fox": "タイニーフレンズ",
+    "garden": "ボールドガーデン",
+    "mug": "コージーサンデー"
+  },
+  "loadMore": "もっと読む",
+  "swipePalette": "パレットをスワイプ",
+  "sidebar": {
+    "challengeBadge": "5月チャレンジ",
+    "challengeTitle": "東京ルーフトップパレット。",
+    "challengeDesc": "この5色だけで任意のページに色を塗る。上位10名は無料の本をゲット。",
+    "challengeEnds": "9日後終了 · 248エントリー",
+    "joinChallenge": "チャレンジに参加",
+    "topColorists": "今週のトップカラリスト",
+    "follow": "フォロー",
+    "guidelinesLabel": "コミュニティの雰囲気",
+    "guidelinesTitle": "親切に。よく色を塗る。",
+    "guidelinesDesc": "iRolyをインターネットの良いコーナーにしているものの短いリスト。90秒で読めます。",
+    "guidelinesLink": "ガイドラインを読む"
+  }
+}

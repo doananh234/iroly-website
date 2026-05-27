@@ -1,0 +1,16 @@
+{
+  "kicker": "iRoly ジャーナル",
+  "title": "スタジオからのノート。",
+  "subtitle": "カラリストのためのストーリー、ヒント、穏やかなインスピレーション。",
+  "filters": {
+    "all": "すべて",
+    "process": "プロセス",
+    "interviews": "インタビュー",
+    "freePages": "無料ページ",
+    "newBooks": "新刊"
+  },
+  "featuredBadge": "注目",
+  "readArticle": "記事を読む",
+  "readMore": "続きを読む",
+  "recentTitle": "最新の投稿"
+}

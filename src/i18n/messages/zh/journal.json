@@ -1,0 +1,16 @@
+{
+  "kicker": "iRoly 日志",
+  "title": "来自工作室的笔记。",
+  "subtitle": "为涂色者带来故事、技巧和平静灵感。",
+  "filters": {
+    "all": "全部",
+    "process": "创作过程",
+    "interviews": "访谈",
+    "freePages": "免费页面",
+    "newBooks": "新书"
+  },
+  "featuredBadge": "精选",
+  "readArticle": "阅读文章",
+  "readMore": "阅读更多",
+  "recentTitle": "最新文章"
+}

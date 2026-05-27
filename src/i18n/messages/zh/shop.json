@@ -1,0 +1,51 @@
+{
+  "title": "购买所有书籍",
+  "subtitle": "64本涂色书 — 可爱、温馨、平静。找到你的下一本涂色书。",
+  "kicker": "图书馆 · 64本书",
+  "filter": {
+    "all": "全部",
+    "bestSellers": "畅销书",
+    "new": "新品",
+    "mandalas": "曼陀罗",
+    "spooky": "鬼怪",
+    "christmas": "圣诞节",
+    "boldEasy": "粗线条简易",
+    "under10": "¥10以下",
+    "animals": "动物",
+    "floral": "花卉",
+    "fantasy": "奇幻",
+    "mandala": "曼陀罗",
+    "nature": "自然"
+  },
+  "sort": {
+    "label": "排序",
+    "recommend": "推荐",
+    "new": "最新",
+    "mostColored": "涂色次数",
+    "priceLow": "价格从低到高",
+    "popular": "最受欢迎",
+    "newest": "最新上架",
+    "priceHigh": "价格从高到低"
+  },
+  "toolbar": {
+    "showing": "显示",
+    "of": "/",
+    "books": "本书",
+    "view": "视图",
+    "loadMore": "加载更多24本",
+    "filterBtn": "筛选",
+    "showingRange": "显示 1\u2013{shown} / 共{total}本",
+    "loadMoreCount": "再加载{count}本"
+  },
+  "sidebar": {
+    "bundleSave": "组合优惠",
+    "bundleOffer": "3本 = ¥24.9",
+    "buildBundle": "创建组合 →"
+  },
+  "grid": {
+    "pages": "页",
+    "addToBag": "加入购物袋",
+    "empty": "此类别中没有找到书籍。",
+    "loading": "加载中…"
+  }
+}

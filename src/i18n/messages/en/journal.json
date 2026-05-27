@@ -1,0 +1,16 @@
+{
+  "kicker": "The iRoly Journal",
+  "title": "Notes from the studio.",
+  "subtitle": "Stories, tips, and calm inspiration for colorists.",
+  "filters": {
+    "all": "All",
+    "process": "Process",
+    "interviews": "Interviews",
+    "freePages": "Free Pages",
+    "newBooks": "New Books"
+  },
+  "featuredBadge": "Featured",
+  "readArticle": "Read the Article",
+  "readMore": "Read More",
+  "recentTitle": "Recent posts"
+}

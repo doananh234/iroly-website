@@ -1,0 +1,49 @@
+{
+  "badge": "免费 · 无需账户",
+  "title": "画室。",
+  "subtitle": "选择页面，选择调色板，呼吸。将完成的艺术作品保存到画廊或与iRoly社区分享。",
+  "painting": "347人正在绘画",
+  "tools": {
+    "label": "工具",
+    "brush": "画笔",
+    "fill": "填充",
+    "eraser": "橡皮擦",
+    "eyedropper": "滴管"
+  },
+  "brushSize": "画笔大小",
+  "history": {
+    "label": "历史",
+    "undo": "撤销",
+    "redo": "重做",
+    "clear": "清除画布"
+  },
+  "coloringPage": "着色页",
+  "active": "活跃",
+  "pickCustom": "自定义颜色",
+  "cozyPalette": "舒适调色板",
+  "recent": "最近使用",
+  "paletteOfWeek": "本周调色板",
+  "paletteTitle": "东京屋顶，五月",
+  "paletteCurated": "梅精选 · 点击色块",
+  "download": "下载PNG",
+  "share": "分享作品",
+  "save": "保存到画廊",
+  "tip": "提示：绘画时按住Shift键可锁定直线 · 按⌘Z撤销。",
+  "communityTitle": "其他着色者的作品",
+  "communityLink": "查看社区画廊 →",
+  "tipsTitle": "让颜色更舒适的三条小规则。",
+  "tipsLabel": "梅的着色技巧",
+  "shortcutsTitle": "用双手更快操作。",
+  "shortcutsLabel": "键盘快捷键",
+  "shareModal": {
+    "label": "分享你的作品",
+    "title": "把它分享到世界。",
+    "subtitle": "选择分享的平台。我们会添加水印链接回iRoly。",
+    "community": "发布到iRoly社区画廊",
+    "copyLink": "复制链接",
+    "copied": "链接已复制。",
+    "saved": "已保存到您的设备。",
+    "gallery": "已保存到您的iRoly画廊。",
+    "cleared": "画布已清除。"
+  }
+}

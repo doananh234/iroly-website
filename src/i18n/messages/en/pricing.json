@@ -1,0 +1,19 @@
+{
+  "kicker": "Pay once. Color forever.",
+  "title": "No subscriptions. Just credits.",
+  "subtitle": "Credits unlock books in the iRoly app. Buy more when you want — they never expire. A typical book is 60 credits, ~¥9.9.",
+  "popular": "Most Popular",
+  "perCredit": "per credit",
+  "cta": "Buy {label}",
+  "alacarte": "Or buy a book à la carte.",
+  "alacarteSubtitle": "Every book is ¥9.9. Mix & match — your credits balance carries over.",
+  "faqTitle": "Common questions.",
+  "faq": [
+    { "q": "Do credits expire?", "a": "Never. Spend them when you feel like coloring." },
+    { "q": "Can I use credits on print pages too?", "a": "Yes — credits unlock the full book in the app, and you can print any page from there." },
+    { "q": "Do I need a subscription?", "a": "No. iRoly has never had subscriptions. Buy what you want, when you want." },
+    { "q": "Will my books sync between devices?", "a": "Yes, with a free iRoly account. Library plans and above include cloud backup of your art." },
+    { "q": "What if I don't love a book?", "a": "Refunds within 7 days, no questions. We'll return the credits to your wallet." },
+    { "q": "Family / classroom plans?", "a": "In beta. Email us at hello@iroly.studio." }
+  ]
+}

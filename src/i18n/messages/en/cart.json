@@ -1,0 +1,32 @@
+{
+  "title": "Your cart.",
+  "booksReady": "{count} books · ready to color",
+  "steps": {
+    "cart": "Cart",
+    "payment": "Payment",
+    "library": "Library"
+  },
+  "orderSummary": "Order Summary",
+  "bundleDiscount": "Bundle discount",
+  "tax": "Tax",
+  "taxIncluded": "Included",
+  "total": "Total",
+  "creditsEquivalent": "= {credits} credits in app",
+  "promoPlaceholder": "Promo code",
+  "checkoutCta": "Checkout · ¥{total}",
+  "securityText": "Secure checkout · 7-day refund · No subscription",
+  "upsellTitle": "Add one more book → save ¥4",
+  "upsellSubtitle": "Bundle discount applies at 3 books.",
+  "browseCta": "Browse",
+  "remove": "Remove",
+  "empty": "Your cart is empty. Add a book to get started.",
+  "continueShopping": "Continue Shopping",
+  "items": "{count} items",
+  "subtotal": "Subtotal",
+  "checkout": "Proceed to Checkout",
+  "addedToBag": "Added to bag!",
+  "apply": "Apply",
+  "promoApplied": "10% off applied!",
+  "promoAppliedLabel": "10% promo applied",
+  "invalidPromo": "Invalid promo code"
+}

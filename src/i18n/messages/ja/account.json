@@ -1,0 +1,47 @@
+{
+  "title": "マイアカウント",
+  "editProfile": "プロフィールを編集",
+  "settings": "設定",
+  "stats": {
+    "booksOwned": "所持本数",
+    "pagesColored": "塗ったページ数",
+    "credits": "クレジット残高",
+    "memberSince": "登録日"
+  },
+  "myBooks": "マイブック",
+  "openInApp": "アプリで開く",
+  "recentActivity": "最近のアクティビティ",
+  "edit": {
+    "title": "プロフィールを編集",
+    "avatar": "アバター",
+    "changeAvatar": "アバターを変更",
+    "displayName": "表示名",
+    "displayNameHint": "最大15文字",
+    "bio": "自己紹介",
+    "bioHint": "{count}/200 文字",
+    "save": "変更を保存",
+    "cancel": "キャンセル",
+    "saved": "プロフィールを更新しました！"
+  },
+  "settings": {
+    "title": "設定",
+    "appearance": "外観",
+    "theme": "テーマ",
+    "language": "言語",
+    "notifications": "通知",
+    "weeklyEmail": "週次無料ページメール",
+    "newReleases": "新刊リリース",
+    "communityMentions": "コミュニティメンション",
+    "account": "アカウント",
+    "changePassword": "パスワードを変更",
+    "currentPassword": "現在のパスワード",
+    "newPassword": "新しいパスワード",
+    "confirmPassword": "パスワードを確認",
+    "updatePassword": "パスワードを更新",
+    "email": "メールアドレス",
+    "dangerZone": "危険ゾーン",
+    "deleteAccount": "アカウントを削除",
+    "deleteConfirm": "本当によろしいですか？この操作は元に戻せません。すべてのデータが永久に削除されます。",
+    "deleteButton": "はい、アカウントを削除します"
+  }
+}

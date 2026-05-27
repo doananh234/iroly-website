@@ -1,0 +1,41 @@
+{
+  "badge": "本月14,802位着色者",
+  "title": "iRoly社区。",
+  "subtitle": "来自世界各地着色者的页面、调色板和安静的成就。分享你的，双击他们的，刷一个你喜欢的调色板。",
+  "shareArtwork": "分享你的作品",
+  "challenge": "本周挑战",
+  "stats": {
+    "colorists": "位着色者",
+    "artworks": "件艺术品",
+    "countries": "个国家"
+  },
+  "tabs": {
+    "trending": "热门",
+    "week": "本周",
+    "new": "最新",
+    "following": "关注",
+    "challenges": "挑战"
+  },
+  "filter": {
+    "label": "页面：",
+    "all": "全部",
+    "fox": "小小朋友",
+    "garden": "大胆花园",
+    "mug": "舒适星期天"
+  },
+  "loadMore": "加载更多",
+  "swipePalette": "刷调色板",
+  "sidebar": {
+    "challengeBadge": "五月挑战",
+    "challengeTitle": "东京屋顶调色板。",
+    "challengeDesc": "仅用这五种颜色为任何页面着色。前10名获得免费书籍。",
+    "challengeEnds": "9天后结束 · 248个参赛作品",
+    "joinChallenge": "参加挑战",
+    "topColorists": "本周顶级着色者",
+    "follow": "关注",
+    "guidelinesLabel": "社区氛围",
+    "guidelinesTitle": "友善待人。常常上色。",
+    "guidelinesDesc": "一份简短清单，说明是什么让iRoly成为互联网的好角落。90秒阅读完。",
+    "guidelinesLink": "阅读指南"
+  }
+}

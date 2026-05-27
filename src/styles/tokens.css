@@ -1,0 +1,52 @@
+@theme {
+  --color-primary: #BFFF00;
+  --color-primary-dark: #F90021;
+  --color-surface: #FFFDF8;
+  --color-surface-2: #F5F2EA;
+  --color-dark: #0D1801;
+  --color-dark-overlay: rgba(0, 0, 0, 0.3);
+
+  --color-badge-purple: #8B5CF6;
+  --color-badge-gray: #6B7280;
+  --color-price-red: #DC2626;
+  --color-price-gold: #E5B100;
+  --color-warning: #F5A524;
+  --color-error: #E5484D;
+  --color-success: #30A46C;
+
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* iRoly semantic colors — switch in dark mode */
+:root {
+  --iroly-bg: #FFFDF8;
+  --iroly-bg-2: #F5F2EA;
+  --iroly-bg-3: #FAF7EF;
+  --iroly-fg: #0D1801;
+  --iroly-fg-2: #1d2a14;
+  --iroly-fg-muted: #666666;
+  --iroly-border: rgba(0, 0, 0, 0.06);
+  --iroly-card: #ffffff;
+  --iroly-nav-bg: rgba(255, 253, 248, 0.85);
+  --iroly-accent: #BFFF00;
+}
+
+.dark, [data-theme="dark"] {
+  --color-primary: #BFFF00;
+  --color-surface: #060A05;
+  --color-surface-2: #1E2A1A;
+  --iroly-bg: #060A05;
+  --iroly-bg-2: #1E2A1A;
+  --iroly-bg-3: #243220;
+  --iroly-fg: #E8EDD9;
+  --iroly-fg-2: #C8CFB8;
+  --iroly-fg-muted: #9CA48A;
+  --iroly-border: rgba(255, 255, 255, 0.08);
+  --iroly-card: #1E2A1A;
+  --iroly-nav-bg: rgba(6, 10, 5, 0.88);
+  --iroly-accent: #BFFF00;
+}

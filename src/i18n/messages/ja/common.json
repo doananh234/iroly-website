@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "shop": "ショップ",
+    "freePages": "無料ページ",
+    "credits": "クレジット",
+    "about": "概要",
+    "journal": "ジャーナル",
+    "community": "コミュニティ",
+    "paint": "ペイント",
+    "feed": "フィード",
+    "more": "もっと見る"
+  },
+  "footer": {
+    "shopSection": "ショップ",
+    "learnSection": "学ぶ",
+    "helpSection": "ヘルプ",
+    "legalSection": "法的情報",
+    "subscribe": "購読",
+    "copyright": "© 2026 iRoly Studio · 静かな時間とライムグリーンで作られました。",
+    "tagline": "ポケットサイズの塗り絵スタジオ。厳選された本、毎週の無料ページ、いつでも静かな時間を。",
+    "emailPlaceholder": "your.email@inbox.com",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "newsletterTitle": "一緒に塗ろう",
+    "newsletterSubtitle": "毎週金曜日に無料ページ。スパムなし。",
+    "seeYouFriday": "金曜日に会いましょう！",
+    "invalidEmail": "有効なメールアドレスを入力してください。"
+  },
+  "actions": {
+    "addToBag": "バッグに追加",
+    "checkout": "チェックアウト",
+    "subscribe": "購読する",
+    "search": "検索",
+    "close": "閉じる",
+    "viewAll": "すべて見る",
+    "tryFree": "無料で試す",
+    "download": "ダウンロード",
+    "quickLook": "クイックルック",
+    "readMore": "もっと読む",
+    "backToShop": "ショップに戻る",
+    "inBag": "バッグ内",
+    "added": "追加しました！"
+  },
+  "search": {
+    "placeholder": "本やページを探す",
+    "shortcut": "⌘ K"
+  },
+  "loading": "読み込み中...",
+  "noResults": "結果が見つかりません",
+  "getTheApp": "アプリを入手",
+  "cart": "カート",
+  "yourBag": "あなたのバッグ",
+  "emptyBag": "バッグは空です。本を追加して始めましょう。",
+  "checkoutCount": "チェックアウト · {count}冊"
+}

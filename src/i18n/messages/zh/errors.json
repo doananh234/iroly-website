@@ -1,0 +1,6 @@
+{
+  "notFound": "页面未找到",
+  "generic": "出了点问题",
+  "networkError": "网络错误，请重试。",
+  "unauthorized": "请登录以继续"
+}

@@ -1,0 +1,24 @@
+{
+  "kicker": "Always Free",
+  "title": "Free coloring pages.",
+  "subtitle": "One new page every Friday — pulled from our newest books. Download the PDF or open it directly in the iRoly app. Always free, no account.",
+  "featuredTitle": "Tiny Friend · Sleepy Fox",
+  "featuredDesc": "A warm, sleepy little fox curled up on a tea cup. Bold lines, peaceful composition.",
+  "printCta": "Print This Week's Page",
+  "emailCta": "Get Friday Emails",
+  "pdfCta": "PDF",
+  "inAppCta": "In App",
+  "archiveTitle": "The free archive.",
+  "archiveSubtitle": "Every page we've ever given away — 142 and counting.",
+  "freeBadge": "Free",
+  "weekLabel": "Wk {week}",
+  "categories": {
+    "all": "All",
+    "animals": "Animals",
+    "mandalas": "Mandalas",
+    "spooky": "Spooky",
+    "christmas": "Christmas",
+    "flowers": "Flowers",
+    "cute": "Cute"
+  }
+}

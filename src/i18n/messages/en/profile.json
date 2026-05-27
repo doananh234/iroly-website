@@ -1,0 +1,32 @@
+{
+  "shareProfile": "Share profile",
+  "editProfile": "Edit profile",
+  "follow": "Follow",
+  "message": "Message",
+  "tabs": {
+    "artwork": "Artwork",
+    "books": "Books",
+    "collections": "Collections",
+    "liked": "Liked",
+    "activity": "Activity"
+  },
+  "stats": {
+    "artworks": "Artworks",
+    "booksOwned": "Books owned",
+    "collections": "Collections",
+    "followers": "Followers",
+    "following": "Following"
+  },
+  "sidebar": {
+    "badges": "Badges",
+    "badgesOf": "of",
+    "streak": "Current streak",
+    "streakDays": "days of quiet color",
+    "streakLabel": "Last 14 days",
+    "palettes": "Recent palettes"
+  },
+  "bookStatus": {
+    "owned": "Owned",
+    "wishlist": "Wishlist"
+  }
+}

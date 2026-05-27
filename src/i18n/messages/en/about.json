@@ -1,0 +1,30 @@
+{
+  "kicker": "Our Story",
+  "title": "A small studio making a quieter kind of app.",
+  "story": {
+    "p1": "iRoly started in 2024 as a tiny side project: a place to color without ads, leaderboards, or a daily streak shaming you back into the app.",
+    "p2": "Today we're a studio of six — three illustrators, two engineers, one cat — releasing four to six new books a month. We pay our artists per spread, not per royalty crumb.",
+    "p3": "We believe coloring is a doorway to quiet attention. The app is the doorway. The books are the room."
+  },
+  "stats": {
+    "booksSold": "Books sold",
+    "freePages": "Free pages given",
+    "booksInLibrary": "Books in library",
+    "artists": "In-house artists"
+  },
+  "rulesKicker": "Our Beliefs",
+  "rulesTitle": "Four house rules.",
+  "rules": [
+    { "title": "No streaks, no nags", "desc": "You should never feel guilty for closing the app. We don't track returning users in our marketing." },
+    { "title": "Pay our artists fairly", "desc": "Every illustrator gets paid per spread, plus residuals when their book hits trending." },
+    { "title": "One-time pricing forever", "desc": "No subscriptions. No 'Pro tier' unlocked behind a paywall. ¥9.9 is ¥9.9." },
+    { "title": "Calm beats viral", "desc": "We design for the 9pm couch crowd. Loud confetti animations are not it." }
+  ],
+  "teamTitle": "The team behind the books.",
+  "appCta": {
+    "heading": "Color anywhere with the iRoly app.",
+    "body": "Download on iOS or Android and take your pages with you.",
+    "iosLabel": "Download on the App Store",
+    "androidLabel": "Get it on Google Play"
+  }
+}

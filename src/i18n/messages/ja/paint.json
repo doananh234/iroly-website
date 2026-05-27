@@ -1,0 +1,49 @@
+{
+  "badge": "無料 · アカウント不要",
+  "title": "ペイントスタジオ。",
+  "subtitle": "ページを選び、パレットを選び、呼吸する。完成した作品をギャラリーに保存するか、iRolyコミュニティと共有しましょう。",
+  "painting": "347人が今ペイント中",
+  "tools": {
+    "label": "ツール",
+    "brush": "ブラシ",
+    "fill": "塗りつぶし",
+    "eraser": "消しゴム",
+    "eyedropper": "スポイト"
+  },
+  "brushSize": "ブラシサイズ",
+  "history": {
+    "label": "履歴",
+    "undo": "元に戻す",
+    "redo": "やり直し",
+    "clear": "キャンバスをクリア"
+  },
+  "coloringPage": "ぬりえページ",
+  "active": "アクティブ",
+  "pickCustom": "カスタムカラー",
+  "cozyPalette": "コージーパレット",
+  "recent": "最近使用",
+  "paletteOfWeek": "今週のパレット",
+  "paletteTitle": "東京ルーフトップ、5月",
+  "paletteCurated": "メイ厳選 · スウォッチをタップ",
+  "download": "PNGをダウンロード",
+  "share": "作品をシェア",
+  "save": "ギャラリーに保存",
+  "tip": "ヒント：ペイント中にShiftキーを押すと直線に固定 · ⌘Zで元に戻す。",
+  "communityTitle": "他のカラリストの作品",
+  "communityLink": "コミュニティギャラリーを見る →",
+  "tipsTitle": "より居心地よい色のための3つのルール。",
+  "tipsLabel": "メイのカラリングのコツ",
+  "shortcutsTitle": "手で素早く操作。",
+  "shortcutsLabel": "キーボードショートカット",
+  "shareModal": {
+    "label": "作品をシェア",
+    "title": "世界に送り出す。",
+    "subtitle": "シェア先を選択。iRolyへのリンク付きウォーターマークが追加されます。",
+    "community": "iRolyコミュニティギャラリーに投稿",
+    "copyLink": "リンクをコピー",
+    "copied": "リンクをコピーしました。",
+    "saved": "デバイスに保存しました。",
+    "gallery": "iRolyギャラリーに保存しました。",
+    "cleared": "キャンバスをクリアしました。"
+  }
+}

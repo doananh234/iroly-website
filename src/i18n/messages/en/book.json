@@ -1,0 +1,42 @@
+{
+  "fields": {
+    "pages": "Pages",
+    "difficulty": "Difficulty",
+    "series": "Series",
+    "format": "Format"
+  },
+  "options": {
+    "difficulty": {
+      "beginner": "Beginner",
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    }
+  },
+  "specs": {
+    "format": "iPad · iPhone · Print"
+  },
+  "coloristsCount": "{count} colorists love this book",
+  "addToBagWithPrice": "Add to Cart · {price}",
+  "tryFree": "Try First Page Free",
+  "relatedBooks": "You'll also love…",
+  "backToShop": "Back to Shop",
+  "description": "About This Book",
+  "preview": "Preview Pages",
+  "tabs": {
+    "about": "About this book",
+    "preview": "Sample Pages (4)",
+    "reviews": "Reviews · 312",
+    "shipping": "Print & Delivery"
+  },
+  "credits": {
+    "orUnlock": "Or unlock with",
+    "credits": "credits",
+    "fromWallet": "from your wallet. Save 25% on the 60-credit pack."
+  },
+  "rating": {
+    "reviews": "reviews",
+    "coloringThis": "coloring this"
+  },
+  "discount": "33% Off · Ends Sun"
+}

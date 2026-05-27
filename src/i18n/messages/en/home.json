@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "iRoly — Coloring Books for Calm Minds"
+  },
+  "hero": {
+    "eyebrow": "{count} colored a page today",
+    "title": "Color the calm back in.",
+    "subtitle": "A library of low-pressure coloring books — cute, cozy, calm. Buy a book, get pages to color in the iRoly app, or print at home. No subscriptions.",
+    "cta": "Browse the Library",
+    "ctaSecondary": "See How It Works (40s)"
+  },
+  "categories": {
+    "title": "Browse by mood",
+    "viewAll": "See All Categories"
+  },
+  "trending": {
+    "kicker": "Trending Now",
+    "title": "This Week's Top 10",
+    "subtitle": "What colorists are returning to night after night."
+  },
+  "newArrivals": {
+    "kicker": "Fresh & Cozy",
+    "title": "New This Week"
+  },
+  "newsletter": {
+    "kicker": "Monday Mailer",
+    "title": "One Free Page A Week, To Your Inbox",
+    "subtitle": "We send a curated coloring page every Monday morning. Nothing else.",
+    "placeholder": "your.email@inbox.com",
+    "cta": "Subscribe",
+    "success": "See you Monday. Check your inbox to confirm."
+  },
+  "trust": {
+    "rating": "{rating} from {count} colorists"
+  },
+  "freeTeaser": {
+    "kicker": "Free Every Friday",
+    "titleStart": "A new ",
+    "titleHighlight": "free page",
+    "titleEnd": " every Friday.",
+    "subtitle": "Print it. Color it in the app. Share it on the Exhibition feed. No account needed to download.",
+    "cta": "Print PDF",
+    "ctaSecondary": "See All Free Pages"
+  },
+  "testimonials": {
+    "kicker": "What Colorists Say"
+  }
+}

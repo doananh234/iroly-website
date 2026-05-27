@@ -1,0 +1,32 @@
+{
+  "shareProfile": "プロフィールをシェア",
+  "editProfile": "プロフィールを編集",
+  "follow": "フォロー",
+  "message": "メッセージ",
+  "tabs": {
+    "artwork": "作品",
+    "books": "本",
+    "collections": "コレクション",
+    "liked": "いいね",
+    "activity": "アクティビティ"
+  },
+  "stats": {
+    "artworks": "作品",
+    "booksOwned": "所持本数",
+    "collections": "コレクション",
+    "followers": "フォロワー",
+    "following": "フォロー中"
+  },
+  "sidebar": {
+    "badges": "バッジ",
+    "badgesOf": "/",
+    "streak": "現在のストリーク",
+    "streakDays": "日間の静かな彩色",
+    "streakLabel": "過去14日間",
+    "palettes": "最近のパレット"
+  },
+  "bookStatus": {
+    "owned": "所持済み",
+    "wishlist": "ウィッシュリスト"
+  }
+}

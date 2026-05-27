@@ -1,0 +1,24 @@
+{
+  "kicker": "いつでも無料",
+  "title": "無料ぬりえページ。",
+  "subtitle": "毎週金曜日に新しいページを1枚 — 最新の本から厳選。PDFをダウンロードするか、iRolyアプリで直接開く。常に無料、アカウント不要。",
+  "featuredTitle": "タイニーフレンド · 眠れるキツネ",
+  "featuredDesc": "ティーカップの上でうたたねしている小さなキツネ。太い線、穏やかな構図。",
+  "printCta": "今週のページを印刷",
+  "emailCta": "毎週金曜メールを受け取る",
+  "pdfCta": "PDF",
+  "inAppCta": "アプリで開く",
+  "archiveTitle": "無料アーカイブ。",
+  "archiveSubtitle": "これまでに配布したすべてのページ — 142枚以上。",
+  "freeBadge": "無料",
+  "weekLabel": "第{week}週",
+  "categories": {
+    "all": "すべて",
+    "animals": "動物",
+    "mandalas": "マンダラ",
+    "spooky": "スプーキー",
+    "christmas": "クリスマス",
+    "flowers": "花",
+    "cute": "キュート"
+  }
+}

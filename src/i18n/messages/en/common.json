@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "freePages": "Free Pages",
+    "credits": "Credits",
+    "about": "About",
+    "journal": "Journal",
+    "community": "Community",
+    "paint": "Paint",
+    "feed": "Feed",
+    "more": "More"
+  },
+  "footer": {
+    "shopSection": "Shop",
+    "learnSection": "Learn",
+    "helpSection": "Help",
+    "legalSection": "Legal",
+    "subscribe": "Subscribe",
+    "copyright": "© 2026 iRoly Studio · Made with quiet hours and lime green.",
+    "tagline": "A pocket-sized coloring studio. Curated books, free pages every week, and a quiet hour whenever you want one.",
+    "emailPlaceholder": "your.email@inbox.com",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "newsletterTitle": "Color With Us",
+    "newsletterSubtitle": "Free pages every Friday. No spam.",
+    "seeYouFriday": "See you Friday!",
+    "invalidEmail": "Please enter a valid email address."
+  },
+  "actions": {
+    "addToBag": "Add To Bag",
+    "checkout": "Checkout",
+    "subscribe": "Subscribe",
+    "search": "Search",
+    "close": "Close",
+    "viewAll": "View All",
+    "tryFree": "Try Free",
+    "download": "Download",
+    "quickLook": "Quick Look",
+    "readMore": "Read More",
+    "backToShop": "Back to Shop",
+    "inBag": "In Bag",
+    "added": "Added!"
+  },
+  "search": {
+    "placeholder": "Find a book or page",
+    "shortcut": "⌘ K"
+  },
+  "loading": "Loading...",
+  "noResults": "No results found",
+  "getTheApp": "Get The App",
+  "cart": "Cart",
+  "yourBag": "Your Bag",
+  "emptyBag": "Your bag is empty. Add a book to get started.",
+  "checkoutCount": "Checkout · {count} Books"
+}

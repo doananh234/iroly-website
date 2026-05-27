@@ -1,0 +1,42 @@
+{
+  "fields": {
+    "pages": "页数",
+    "difficulty": "难度",
+    "series": "系列",
+    "format": "格式"
+  },
+  "options": {
+    "difficulty": {
+      "beginner": "入门",
+      "easy": "简单",
+      "medium": "中等",
+      "hard": "困难"
+    }
+  },
+  "specs": {
+    "format": "iPad · iPhone · 打印"
+  },
+  "coloristsCount": "{count} 位涂色者喜欢这本书",
+  "addToBagWithPrice": "加入购物车 · {price}",
+  "tryFree": "免费试用第一页",
+  "relatedBooks": "你也会喜欢…",
+  "backToShop": "返回商店",
+  "description": "关于本书",
+  "preview": "预览页面",
+  "tabs": {
+    "about": "关于本书",
+    "preview": "示例页面 (4)",
+    "reviews": "评价 · 312",
+    "shipping": "打印与配送"
+  },
+  "credits": {
+    "orUnlock": "或者用",
+    "credits": "积分",
+    "fromWallet": "从钱包解锁。购买60积分包可节省25%。"
+  },
+  "rating": {
+    "reviews": "条评价",
+    "coloringThis": "人正在涂色"
+  },
+  "discount": "33%折扣 · 周日结束"
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "iRoly — 平静心灵的涂色书"
+  },
+  "hero": {
+    "eyebrow": "今天有{count}人涂色了",
+    "title": "让平静回归。",
+    "subtitle": "低压力的涂色书库 — 可爱、温馨、平静。购买一本书，在iRoly应用中涂色，或打印到纸上。无需订阅。",
+    "cta": "浏览图书馆",
+    "ctaSecondary": "看看如何使用 (40秒)"
+  },
+  "categories": {
+    "title": "按心情浏览",
+    "viewAll": "查看所有类别"
+  },
+  "trending": {
+    "kicker": "热门趋势",
+    "title": "本周TOP 10",
+    "subtitle": "涂色爱好者们每晚都在回顾的作品。"
+  },
+  "newArrivals": {
+    "kicker": "新鲜温馨",
+    "title": "本周新品"
+  },
+  "newsletter": {
+    "kicker": "周一邮件",
+    "title": "每周一张免费页面，送到您的邮箱",
+    "subtitle": "我们每周一早上发送一张精选涂色页面。仅此而已。",
+    "placeholder": "your.email@inbox.com",
+    "cta": "订阅",
+    "success": "周一见。请查看邮箱确认。"
+  },
+  "trust": {
+    "rating": "来自{count}位涂色爱好者的{rating}分"
+  },
+  "freeTeaser": {
+    "kicker": "每周五免费",
+    "titleStart": "每周五，一张",
+    "titleHighlight": "免费页面",
+    "titleEnd": "。",
+    "subtitle": "打印出来，在应用里上色，分享到展示墙。无需账号即可下载。",
+    "cta": "打印PDF",
+    "ctaSecondary": "查看所有免费页面"
+  },
+  "testimonials": {
+    "kicker": "涂色爱好者说"
+  }
+}

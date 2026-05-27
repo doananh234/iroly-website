@@ -1,0 +1,32 @@
+{
+  "title": "カート。",
+  "booksReady": "{count}冊 · ぬりえの準備完了",
+  "steps": {
+    "cart": "カート",
+    "payment": "支払い",
+    "library": "ライブラリ"
+  },
+  "orderSummary": "注文概要",
+  "bundleDiscount": "バンドル割引",
+  "tax": "税金",
+  "taxIncluded": "込み",
+  "total": "合計",
+  "creditsEquivalent": "= アプリ内{credits}クレジット相当",
+  "promoPlaceholder": "プロモコード",
+  "checkoutCta": "チェックアウト · ¥{total}",
+  "securityText": "安全なチェックアウト · 7日間返金 · サブスクなし",
+  "upsellTitle": "あと1冊追加 → ¥4節約",
+  "upsellSubtitle": "3冊でバンドル割引が適用されます。",
+  "browseCta": "ブラウズ",
+  "remove": "削除",
+  "empty": "カートは空です。本を追加して始めましょう。",
+  "continueShopping": "買い物を続ける",
+  "items": "{count}点",
+  "subtotal": "小計",
+  "checkout": "レジに進む",
+  "addedToBag": "バッグに追加しました！",
+  "apply": "適用",
+  "promoApplied": "10%オフが適用されました！",
+  "promoAppliedLabel": "10%プロモ適用済み",
+  "invalidPromo": "無効なプロモコードです"
+}

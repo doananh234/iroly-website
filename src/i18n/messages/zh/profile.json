@@ -1,0 +1,32 @@
+{
+  "shareProfile": "分享个人资料",
+  "editProfile": "编辑个人资料",
+  "follow": "关注",
+  "message": "消息",
+  "tabs": {
+    "artwork": "作品",
+    "books": "书籍",
+    "collections": "收藏",
+    "liked": "喜欢",
+    "activity": "动态"
+  },
+  "stats": {
+    "artworks": "作品",
+    "booksOwned": "拥有的书籍",
+    "collections": "收藏",
+    "followers": "粉丝",
+    "following": "关注"
+  },
+  "sidebar": {
+    "badges": "徽章",
+    "badgesOf": "共",
+    "streak": "当前连续",
+    "streakDays": "天安静上色",
+    "streakLabel": "最近14天",
+    "palettes": "最近调色板"
+  },
+  "bookStatus": {
+    "owned": "已拥有",
+    "wishlist": "心愿单"
+  }
+}

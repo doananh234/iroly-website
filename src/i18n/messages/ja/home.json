@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "iRoly — 穏やかな心のための塗り絵帳"
+  },
+  "hero": {
+    "eyebrow": "今日{count}人が塗り絵をしました",
+    "title": "穏やかさを取り戻そう。",
+    "subtitle": "プレッシャーのない塗り絵ライブラリ — かわいい、居心地がいい、穏やか。本を購入してiRolyアプリで塗るか、印刷して楽しもう。サブスクリプション不要。",
+    "cta": "ライブラリを見る",
+    "ctaSecondary": "使い方を見る (40秒)"
+  },
+  "categories": {
+    "title": "気分で探す",
+    "viewAll": "すべてのカテゴリを見る"
+  },
+  "trending": {
+    "kicker": "トレンド",
+    "title": "今週のTOP 10",
+    "subtitle": "毎晩戻ってくる塗り絵ファンのお気に入り。"
+  },
+  "newArrivals": {
+    "kicker": "新着",
+    "title": "今週の新作"
+  },
+  "newsletter": {
+    "kicker": "月曜メール",
+    "title": "毎週1ページ、受信箱にお届け",
+    "subtitle": "毎週月曜の朝、厳選された塗り絵ページをお届けします。それだけです。",
+    "placeholder": "your.email@inbox.com",
+    "cta": "購読する",
+    "success": "月曜にお届けします。受信箱で確認してください。"
+  },
+  "trust": {
+    "rating": "{count}人の塗り絵ファンから{rating}"
+  },
+  "freeTeaser": {
+    "kicker": "毎週金曜日無料",
+    "titleStart": "毎週金曜日、",
+    "titleHighlight": "無料ページ",
+    "titleEnd": "をプレゼント。",
+    "subtitle": "印刷して、アプリで塗って、展示フィードでシェアしよう。アカウント不要でダウンロードできます。",
+    "cta": "PDFを印刷",
+    "ctaSecondary": "すべての無料ページを見る"
+  },
+  "testimonials": {
+    "kicker": "塗り絵ファンの声"
+  }
+}

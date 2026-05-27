@@ -1,0 +1,51 @@
+{
+  "title": "すべてを購入",
+  "subtitle": "64冊のぬりえブック — かわいく、居心地よく、穏やか。次のぬりえを見つけよう。",
+  "kicker": "ライブラリー · 64冊",
+  "filter": {
+    "all": "すべて",
+    "bestSellers": "ベストセラー",
+    "new": "新着",
+    "mandalas": "マンダラ",
+    "spooky": "スプーキー",
+    "christmas": "クリスマス",
+    "boldEasy": "ボールド＆イージー",
+    "under10": "¥10以下",
+    "animals": "動物",
+    "floral": "花",
+    "fantasy": "ファンタジー",
+    "mandala": "マンダラ",
+    "nature": "自然"
+  },
+  "sort": {
+    "label": "並び替え",
+    "recommend": "おすすめ",
+    "new": "新着",
+    "mostColored": "塗り数順",
+    "priceLow": "価格：安い順",
+    "popular": "人気順",
+    "newest": "新着順",
+    "priceHigh": "価格：高い順"
+  },
+  "toolbar": {
+    "showing": "表示中",
+    "of": "/",
+    "books": "冊",
+    "view": "表示",
+    "loadMore": "さらに24冊",
+    "filterBtn": "フィルター",
+    "showingRange": "1\u2013{shown} / {total}冊を表示",
+    "loadMoreCount": "さらに{count}冊"
+  },
+  "sidebar": {
+    "bundleSave": "まとめてお得",
+    "bundleOffer": "3冊 = ¥24.9",
+    "buildBundle": "バンドルを作る →"
+  },
+  "grid": {
+    "pages": "ページ",
+    "addToBag": "バッグに入れる",
+    "empty": "このカテゴリには本がありません。",
+    "loading": "読み込み中…"
+  }
+}

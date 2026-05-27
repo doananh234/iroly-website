@@ -1,0 +1,24 @@
+{
+  "kicker": "永远免费",
+  "title": "免费涂色页。",
+  "subtitle": "每周五一张新页面 — 精选自最新书籍。下载PDF或直接在iRoly应用中打开。永远免费，无需账户。",
+  "featuredTitle": "小小朋友 · 瞌睡小狐",
+  "featuredDesc": "一只蜷缩在茶杯上打瞌睡的小狐狸。粗线条，宁静的构图。",
+  "printCta": "打印本周页面",
+  "emailCta": "订阅周五邮件",
+  "pdfCta": "PDF",
+  "inAppCta": "在应用中打开",
+  "archiveTitle": "免费页面存档。",
+  "archiveSubtitle": "我们发布过的所有页面 — 142张及更多。",
+  "freeBadge": "免费",
+  "weekLabel": "第{week}周",
+  "categories": {
+    "all": "全部",
+    "animals": "动物",
+    "mandalas": "曼陀罗",
+    "spooky": "鬼怪",
+    "christmas": "圣诞",
+    "flowers": "花卉",
+    "cute": "可爱"
+  }
+}

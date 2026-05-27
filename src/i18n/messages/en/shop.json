@@ -1,0 +1,51 @@
+{
+  "title": "Shop Everything",
+  "subtitle": "64 coloring books — cute, cozy, calm. Find your next coloring adventure.",
+  "kicker": "The Library · 64 Books",
+  "filter": {
+    "all": "All",
+    "bestSellers": "Best Sellers",
+    "new": "New",
+    "mandalas": "Mandalas",
+    "spooky": "Spooky",
+    "christmas": "Christmas",
+    "boldEasy": "Bold & Easy",
+    "under10": "Under ¥10",
+    "animals": "Animals",
+    "floral": "Floral",
+    "fantasy": "Fantasy",
+    "mandala": "Mandala",
+    "nature": "Nature"
+  },
+  "sort": {
+    "label": "Sort",
+    "recommend": "Recommend",
+    "new": "New",
+    "mostColored": "Most Colored",
+    "priceLow": "Price: Low → High",
+    "popular": "Most Popular",
+    "newest": "Newest",
+    "priceHigh": "Price: High to Low"
+  },
+  "toolbar": {
+    "showing": "Showing",
+    "of": "of",
+    "books": "books",
+    "view": "View",
+    "loadMore": "Load 24 more",
+    "filterBtn": "Filter",
+    "showingRange": "Showing 1\u2013{shown} of {total} books",
+    "loadMoreCount": "Load {count} more"
+  },
+  "sidebar": {
+    "bundleSave": "Bundle & Save",
+    "bundleOffer": "3 books = ¥24.9",
+    "buildBundle": "Build a Bundle →"
+  },
+  "grid": {
+    "pages": "pages",
+    "addToBag": "Add to Bag",
+    "empty": "No books found in this category.",
+    "loading": "Loading books…"
+  }
+}
